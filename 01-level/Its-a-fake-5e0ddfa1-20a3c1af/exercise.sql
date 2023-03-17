@@ -1,0 +1,1 @@
+DELETE FROM sterrenstelsel.planeten WHERE id = 5;

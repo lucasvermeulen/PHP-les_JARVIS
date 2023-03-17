@@ -1,0 +1,2 @@
+php phpcs.phar --standard=PHP_Lenient.xml test.php
+php phpcs.phar --standard=/Users\lucas\Documents\school\piriode3\PGB\jarvis\bit-academy\development-start\01-level\PHP_Lenient.xml /Users\lucas\Documents\school\piriode3\PGB\jarvis\bit-academy\development-start\01-level 
